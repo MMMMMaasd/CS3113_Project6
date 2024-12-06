@@ -1,7 +1,7 @@
 /**
 * Author: Michael Bian
-* Assignment: Platformer
-* Date due: 2023-11-23, 11:59pm
+* Assignment: Strange Case of Boy in Red
+* Date due: 2024-12-07, 2:00pm
 * I pledge that I have completed this assignment without
 * collaborating with anyone else, in conformance with the
 * NYU School of Engineering Policies and Procedures on
